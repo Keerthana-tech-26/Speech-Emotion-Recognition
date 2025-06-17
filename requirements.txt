@@ -1,0 +1,6 @@
+streamlit
+tensorflow==2.13
+librosa
+scikit-learn
+soundfile
+numpy
